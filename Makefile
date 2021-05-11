@@ -21,7 +21,7 @@ PKGDIR = $(LIBDIR)/pkgconfig
 NAME = openaptx
 MAJOR = 0
 MINOR = 2
-PATCH = 0
+PATCH = 2
 
 LIBNAME = lib$(NAME).so
 SONAME = $(LIBNAME).$(MAJOR)
